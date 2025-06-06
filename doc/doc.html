@@ -32,7 +32,7 @@
         <div id="content"></div>
     </div>
     <footer class="footer has-text-centered">
-        <p>© 2024 共有ツール ウェブ完理・うまいだんご・小川 智也</p>
+        <p>© 2024-2025 共有ツール うまいだんご・小川 智也</p>
     </footer>
     <script>
         function parseFrontMatter(markdown) {
@@ -54,7 +54,7 @@
         const path = url.searchParams.get('id');
         if(!path){location.href = "/doc/";}
         const doc = document.getElementById('content');
-        fetch(`https://raw.githubusercontent.com/webfullsympathy/sharetool-doc/refs/heads/main/doc/${path}.md`)
+        fetch(`https://raw.githubusercontent.com/ogatomo21/sharetool-doc/refs/heads/main/doc/${path}.md`)
             .then(res => res.text())
             .then(text => {
                 const frontMatterEnd = text.indexOf('---', 4) + 3;

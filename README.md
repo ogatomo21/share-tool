@@ -1,7 +1,5 @@
 # 共有ツール
 
-[Engrish Here](https://github.com/ogatomo21/share-tool/blob/main/README_EN.md)
-
 ## ！！！重要なお知らせ！！！
 
 2025年6月6日、このアプリの開発はウェブ完理氏から小川智也へ引き継がれました。
@@ -87,21 +85,23 @@ https://share-tool.vercel.app/
 
 # お問い合わせ先
 
-# ウェブ完理(管理者)
-お問い合わせは[このリンク](https://link.webfullsympathy.com)にウェブ完理のSNSを全て表記しています。
-また、すべてのSNSでDMを解放しているのでお気軽にお問い合わせください。GitHubでのIssuesでもお問い合わせが可能です。
+※開発は終了しているため最小限のお問い合わせをお願いします。
+
+# ~~ウェブ完理(管理者)~~
+~~お問い合わせは[このリンク](https://link.webfullsympathy.com)にウェブ完理のSNSを全て表記しています。
+また、すべてのSNSでDMを解放しているのでお気軽にお問い合わせください。GitHubでのIssuesでもお問い合わせが可能です。~~
 
 # うまいだんご(共同編集者)
 - [ホームページ](https://umaidango.github.io/me/)
 
 - [X(旧Twitter)](https://x.com/dango12_dango)
 
-# 小川 智也(共同編集者)
+# 小川 智也(管理者)
 
 - [Tomoyan's Blog](https://ogatomo.net)
 - [X(旧Twitter)](https://x.com/ogatomo21)
 - [GitHub](https://github.com/ogatomo21)
 
-## 制作者：[ウェブ完理](https://webfullsympathy.github.io/)
+## 制作者：ウェブ完理
 ## 共同編集者: [うまいだんご](https://umaidango.github.io/me/)
-## 共同編集者: [小川 智也](https://ogatomo.net)
+## 管理者: [小川 智也](https://ogatomo.net)
