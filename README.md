@@ -28,7 +28,7 @@
 アプリ内にあるHTMLコードを自サイトに貼りつけるだけで様々サービスに対応した共有ボタンを一つで作ることが出来ます。
 
 # 使い方
-[アプリ](https://share-tool.net)を開くと共有画面が出てきます。
+[アプリ](https://share-tool.vercel.app)を開くと共有画面が出てきます。
 フッターにある「埋め込みコードはこちら」をクリックして自身のサイトに貼りつけるだけでご利用できます。
 
 # ???
@@ -40,7 +40,7 @@ https://github.com/webfullsympathy/share-tool/discussions/4
 - [うまいだんご](#うまいだんご共同編集者)
 - [小川 智也](#小川-智也共同編集者)
 
-[新規開発者申請はこちら！](https://share-tool.net/dev/new)
+[新規開発者申請はこちら！](https://share-tool.vercel.app/dev/new)
 
 # ダウンロード
 |OS/種類|リンク|備考|
@@ -51,7 +51,7 @@ https://github.com/webfullsympathy/share-tool/discussions/4
 |Chrome拡張機能|[ダウンロード](https://chromewebstore.google.com/detail/folhpgnfkkbpgchbambnjdkaaleaefgh)|自動アップデートあり|
 |Firefox拡張機能|[ダウンロード](https://addons.mozilla.org/ja/firefox/addon/%E5%85%B1%E6%9C%89%E3%83%84%E3%83%BC%E3%83%AB-share-tool/)|自動アップデートあり|
 |VisiOS|[ダウンロード](https://github.com/webfullsympathy/share-tool/releases/download/v3.5/share-tool.visiapp)|※常に最新版です。<br>[ダウンロード方法はこちら](https://github.com/webfullsympathy/webfullsympathy/blob/main/post/visios/app_download.md)|
-|PWA|[ダウンロード](https://share-tool.net)|※共有ボタンの下にある<br>インストールバナーをクリック|
+|PWA|[ダウンロード](https://share-tool.vercel.app)|※共有ボタンの下にある<br>インストールバナーをクリック|
 
 # お知らせ
 

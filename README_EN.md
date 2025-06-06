@@ -28,7 +28,7 @@
 You can create a shared button compatible with various services simply by pasting the HTML code found in the app into your own site.
 
 # How to Use
-When you open the [app](https://share-tool.net), a sharing screen will appear.
+When you open the [app](https://share-tool.vercel.app), a sharing screen will appear.
 You can use it by clicking on "Click here for the embed code" in the footer and pasting it into your own site.
 
 # Collaborators
@@ -37,7 +37,7 @@ You can use it by clicking on "Click here for the embed code" in the footer and 
 - [Umaidango](#UmaidangoCollaborators)
 - [Tomoya Ogawa](#TomoyaOgawaCollaborators)
 
-[New Developer Application Here!](https://share-tool.net/dev/new)
+[New Developer Application Here!](https://share-tool.vercel.app/dev/new)
 
 # Download
 |OS/Type|Link|Notes|
@@ -48,7 +48,7 @@ You can use it by clicking on "Click here for the embed code" in the footer and 
 |Chrome Extension|[Download](https://chromewebstore.google.com/detail/folhpgnfkkbpgchbambnjdkaaleaefgh)|Automatic updates available|
 |Firefox Extension|[Download](https://addons.mozilla.org/ja/firefox/addon/%E5%85%B1%E6%9C%89%E3%83%84%E3%83%BC%E3%83%AB-share-tool/)|Automatic updates available|
 |VisiOS|[Download](https://github.com/webfullsympathy/share-tool/releases/download/v3.5/share-tool.visiapp)|*Always the latest version.<br>[Click here for download instructions](https://github.com/webfullsympathy/webfullsympathy/blob/main/post/visios/app_download.md)|
-|PWA|[Download](https://share-tool.net)|*Click the<br>install banner under the share button|
+|PWA|[Download](https://share-tool.vercel.app)|*Click the<br>install banner under the share button|
 
 # Notice
 
