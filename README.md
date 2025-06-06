@@ -1,6 +1,22 @@
 # 共有ツール
 
-[Engrish Here](https://github.com/webfullsympathy/share-tool/blob/main/README_EN.md)
+[Engrish Here](https://github.com/ogatomo21/share-tool/blob/main/README_EN.md)
+
+## ！！！重要なお知らせ！！！
+
+2025年6月6日、このアプリの開発はウェブ完理氏から小川智也へ引き継がれました。
+
+それに伴い、本日を持ちましてすべてのサービスの開発・サポートを終了いたします。
+
+ご不便をおかけして申し訳ございません。
+
+今後、共有ツールをベースとした新たなサービスの開発を行う予定ですので今しばらくお待ち下さい。
+
+また、開発終了後も下記のURLにて一定期間はご利用できます。（サービスの保証はいたしません）
+
+https://share-tool.vercel.app/
+
+今までたくさんのご利用、ありがとうございました。
 
 ## 使用言語
 
@@ -32,7 +48,7 @@
 フッターにある「埋め込みコードはこちら」をクリックして自身のサイトに貼りつけるだけでご利用できます。
 
 # ???
-https://github.com/webfullsympathy/share-tool/discussions/4
+https://github.com/ogatomo21/share-tool/discussions/4
 
 # 共同編集者様
 
@@ -50,7 +66,7 @@ https://github.com/webfullsympathy/share-tool/discussions/4
 |Linux|[未完成]()|なし|
 |Chrome拡張機能|[ダウンロード](https://chromewebstore.google.com/detail/folhpgnfkkbpgchbambnjdkaaleaefgh)|自動アップデートあり|
 |Firefox拡張機能|[ダウンロード](https://addons.mozilla.org/ja/firefox/addon/%E5%85%B1%E6%9C%89%E3%83%84%E3%83%BC%E3%83%AB-share-tool/)|自動アップデートあり|
-|VisiOS|[ダウンロード](https://github.com/webfullsympathy/share-tool/releases/download/v3.5/share-tool.visiapp)|※常に最新版です。<br>[ダウンロード方法はこちら](https://github.com/webfullsympathy/webfullsympathy/blob/main/post/visios/app_download.md)|
+|VisiOS|[ダウンロード](https://github.com/ogatomo21/share-tool/releases/download/v3.5/share-tool.visiapp)|※常に最新版です。<br>[ダウンロード方法はこちら](https://github.com/webfullsympathy/webfullsympathy/blob/main/post/visios/app_download.md)|
 |PWA|[ダウンロード](https://share-tool.vercel.app)|※共有ボタンの下にある<br>インストールバナーをクリック|
 
 # お知らせ
