@@ -47,16 +47,16 @@ https://share-tool.vercel.app/
 [アプリ](https://share-tool.vercel.app)を開くと共有画面が出てきます。
 フッターにある「埋め込みコードはこちら」をクリックして自身のサイトに貼りつけるだけでご利用できます。
 
-# ???
-https://github.com/ogatomo21/share-tool/discussions/4
+~~# ???~~
+~~https://github.com/ogatomo21/share-tool/discussions/4~~
 
 # 共同編集者様
 
-- [ウェブ完理(管理者)](#ウェブ完理管理者)
+- ~~[ウェブ完理(管理者)](#ウェブ完理管理者)~~
 - [うまいだんご](#うまいだんご共同編集者)
-- [小川 智也](#小川-智也共同編集者)
+- [小川 智也(管理者)](#小川-智也共同編集者)
 
-[新規開発者申請はこちら！](https://share-tool.vercel.app/dev/new)
+~~[新規開発者申請はこちら！](https://share-tool.vercel.app/dev/new)~~
 
 # ダウンロード
 |OS/種類|リンク|備考|
