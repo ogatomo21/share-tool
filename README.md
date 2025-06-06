@@ -4,7 +4,7 @@
 
 ![スクリーンショット](./image.png)
 
-共有ツール for Browserは、現状の[Web上で動作している共有ツール](https://share-tool.net)をFirefox拡張機能にしたものです。
+共有ツール for Browserは、現状の[Web上で動作している共有ツール](https://share-tool.vercel.app)をFirefox拡張機能にしたものです。
 
 ほぼChrome版と同じコードで動いてます。
 
@@ -48,4 +48,4 @@ MIT License
 
 ### [小川 智也(企画者)](https://ogatomo.net)
 
-### [ウェブ完理](https://webfullsympathy.github.io)
+### ~~ウェブ完理~~
